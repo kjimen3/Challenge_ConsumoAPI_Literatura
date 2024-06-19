@@ -31,7 +31,7 @@ Esta aplicación permite a los usuarios buscar libros por título, listar libros
 
 ### Listado de libros por idioma
 
-![Listado de libros por idioma](![image](https://prnt.sc/EecQr6Bqaf3D))
+![Listado de libros por idioma](https://prnt.sc/EecQr6Bqaf3D)
 
 
 ## Tecnologías Utilizadas
