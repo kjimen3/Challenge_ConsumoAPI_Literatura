@@ -11,29 +11,6 @@ Esta aplicación permite a los usuarios buscar libros por título, listar libros
 - Listado de libros por idioma.
 - Listado de autores vivos en un año determinado.
 
-## Capturas de Pantalla
-
-### Pantalla Principal
-
-![Pantalla Principal](![image](https://github.com/kjimen3/Challenge_ConsumoAPI_Literatura/assets/93230698/4a75b5aa-cd21-4419-9a2f-d1c52d40fbc7))
-
-### Búsqueda de libros registrados en la base de datos.
-
-![Búsqueda de libros registrados en la base de datos.](![image](https://github.com/kjimen3/Challenge_ConsumoAPI_Literatura/assets/93230698/9cc3e126-bd1a-42a6-9ba0-4cfdafcd7e5f))
-
-### Listado de autores registrados en la base de datos.
-
-![Listado de autores registrados en la base de datos.](![image](https://github.com/kjimen3/Challenge_ConsumoAPI_Literatura/assets/93230698/2191c4e9-e7ce-4814-bd3a-dc5a49962ccb))
-
-###Listado de autores vivos en un año determinado.
-
-![Listado de autores vivos en un año determinado.](![image](https://github.com/kjimen3/Challenge_ConsumoAPI_Literatura/assets/93230698/babf1e07-1f67-43e8-83f6-fa649ab6442a))
-
-### Listado de libros por idioma
-
-![Listado de libros por idioma](https://prnt.sc/EecQr6Bqaf3D)
-
-
 ## Tecnologías Utilizadas
 
 - **Java**: Lenguaje de programación principal.
