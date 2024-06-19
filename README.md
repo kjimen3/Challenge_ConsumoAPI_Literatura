@@ -31,7 +31,7 @@ Esta aplicación permite a los usuarios buscar libros por título, listar libros
 
 ### Listado de libros por idioma
 
-![Listado de libros por idioma](![image](https://github.com/kjimen3/Challenge_ConsumoAPI_Literatura/assets/93230698/826d6ef5-9cb0-43a1-b91c-e9d767e53800))
+![Listado de libros por idioma](![image](https://prnt.sc/EecQr6Bqaf3D))
 
 
 ## Tecnologías Utilizadas
